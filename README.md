@@ -21,7 +21,7 @@ For algorithms and data structures in C++, check out the list [here](C++).
 Just [create a new issue](https://github.com/faheel/algos/issues/new "Create a new issue") and I'll handle it from there :smile:
 
 ## License
-This project is licensed under the terms of the [MIT license](LICENSE.md).
+This project is licensed under the terms of the [MIT license](LICENSE.md)
 
 
 [travis-shield]: https://img.shields.io/travis/faheel/Algos.svg?style=for-the-badge
