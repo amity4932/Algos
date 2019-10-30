@@ -28,6 +28,7 @@ Implementation of well-known (and some rare) algorithms, in C++.
   * [Binary search](source/searching/binary_search.cpp) :white_check_mark:
   * [Linear search](source/searching/linear_search.cpp) :white_check_mark:
   * [Ternary search](source/searching/ternary_search.cpp) :white_check_mark:
+  * [Interpolation search](https://www.geeksforgeeks.org/interpolation-search/) :white_check_mark:
 * Sorting
   * [Bubble sort](source/sorting/bubble_sort.cpp)
   * [Counting sort (stable)](source/sorting/counting_sort.cpp)
